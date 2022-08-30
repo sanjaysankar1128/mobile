@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bx{
+    color: #8300fb;
+}
+.circle{
+    background-image: radial-gradient(circle, rgb(166, 0, 172),rgb(102, 0, 97),rgb(60, 3, 75));
+    border-radius: 500px;
+    height: 300px;
+    width: 300px;
+}
+.img{
+    height: 600px;
+    position: relative;
+}
+.text-start{
+    position: absolute;
+    margin-top: -420px;
+}
